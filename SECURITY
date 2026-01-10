@@ -1,0 +1,54 @@
+# Security Policy
+
+## 🔐 Reporting Security Vulnerabilities
+
+WebSathi takes security seriously.  
+If you discover a security vulnerability, please report it responsibly.
+
+---
+
+## 📫 How to Report
+
+Please **DO NOT** open a public GitHub issue.
+
+Instead, report security issues via email:
+
+📧 **Email:** info@websathi.net  
+
+Include:
+- A detailed description of the vulnerability
+- Steps to reproduce the issue
+- Affected components or endpoints
+- Any proof-of-concept code (if available)
+
+---
+
+## ⏱️ Response Time
+
+We aim to:
+- Acknowledge reports within **48 hours**
+- Investigate and validate the issue promptly
+- Release fixes or mitigation as soon as possible
+
+---
+
+## 🛡️ Responsible Disclosure
+
+We request that you:
+- Avoid exploiting the vulnerability
+- Do not disclose details publicly until the issue is resolved
+- Work with us to ensure user safety
+
+---
+
+## 🔄 Supported Projects
+
+Security updates apply to:
+- Actively maintained repositories
+- Production-level WebSathi applications
+
+Older or archived projects may not receive updates.
+
+---
+
+Thank you for helping keep WebSathi and its users secure 🔒
