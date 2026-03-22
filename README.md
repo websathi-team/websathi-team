@@ -45,17 +45,23 @@ We focus on:
 - Node.js  
 - Bun.js  
 - Express.js / Hono  
-- REST APIs  
+- REST APIs
+- GraphQL
+- Golang(ent,gorm,sqlx)
 
 ### Database
 - PostgreSQL  
-- MongoDB  
+- MongoDB
+- SQL
+- Neon
+- Supabase
 
 ### Tools & DevOps
 - Prisma ORM  
 - Git & GitHub  
 - Docker  
-- Vercel / Render  
+- Vercel / Render
+- Railway
 - Stripe Payment Integration  
 
 ---
